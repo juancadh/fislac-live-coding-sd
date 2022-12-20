@@ -1,0 +1,135 @@
+[
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45000000,
+      "area": 2780400,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Bolivia",
+      "capital": "La Paz",
+      "population": 11000000,
+      "area": 1098581,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Brasil",
+      "capital": "Brasilia",
+      "population": 212000000,
+      "area": 8514876,
+      "officialLanguage": "Portugués"
+    },
+    {
+      "name": "Chile",
+      "capital": "Santiago",
+      "population": 19000000,
+      "area": 756102,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Colombia",
+      "capital": "Bogotá",
+      "population": 50500000,
+      "area": 1141748,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Costa Rica",
+      "capital": "San José",
+      "population": 5000000,
+      "area": 51100,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Cuba",
+      "capital": "La Habana",
+      "population": 11300000,
+      "area": 109884,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "population": 17500000,
+      "area": 283561,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "El Salvador",
+      "capital": "San Salvador",
+      "population": 6500000,
+      "area": 21041,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Guatemala",
+      "capital": "Ciudad de Guatemala",
+      "population": 17900000,
+      "area": 108889,
+      "officialLanguage": "Español"
+    },
+    {
+      "name": "Haití",
+      "capital": "Puerto Príncipe",
+      "population": 11000000,
+      "area": 27750,
+      "officialLanguage": "Francés"
+    },
+    {
+        "name": "México",
+        "capital": "Ciudad de México",
+        "population": 128000000,
+        "area": 1964375,
+        "officialLanguage": "Español"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "population": 6300000,
+        "area": 130373,
+        "officialLanguage": "Español"
+    },
+    {
+        "name": "Panamá",
+        "capital": "Panamá",
+        "population": 4300000,
+        "area": 75417,
+        "officialLanguage": "Español"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "population": 7000000,
+        "area": 406752,
+        "officialLanguage": "Español"
+    },
+    {
+        "name": "Perú",
+        "capital": "Lima",
+        "population": 32250000,
+        "area": 1285216,
+        "officialLanguage": "Español"
+    },
+    {
+        "name": "República Dominicana",
+        "capital": "Santo Domingo",
+        "population": 11000000,
+        "area": 48442,
+        "officialLanguage": "Español"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "population": 3500000,
+        "area": 176200,
+        "officialLanguage": "Español"
+    },
+    {
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "population": 28000000,
+        "area": 916445,
+        "officialLanguage": "Español"
+    }
+]
